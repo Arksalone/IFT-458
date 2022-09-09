@@ -1,47 +1,57 @@
 [
-    {
-        "id": 0,
-        "courseName": "IFT 101",
-        "image": "📚",
-        "from": "Information Technology",
-        "instructor": "David Alderman, Tatiana Walsh",
-        "credits": "4",
-        "description": "Introduction to Information Technology"
-    },
-    {
-        "id": 1,
-        "courseName": "INT 601",
-        "image": "🕉",
-        "from": "Management",
-        "instructor": "David Alderman, Tatiana Walsh",
-        "credits": "3",
-        "description": "International Culture"
-      },
-      {
-        "id": 2,
-        "courseName": "IFT 201",
-        "image": "📯",
-        "from": "Information Technology",
-        "instructor": "David Alderman, Tatiana Walsh",
-        "credits": "3",
-        "description": "Virtualization"
-      },
-      {
-        "id": 3,
-        "courseName": "ART 300",
-        "image": "😱",
-        "from": "Arts",
-        "instructor": "David Alderman, Tatiana Walsh",
-        "credits": "3",
-        "description": "Virtualization"
-      },
-      {
-        "id": 4,
-        "course": "INC 401",
-        "image": "🐇",
-        "from": "Veterinary  Science",
-        "instructor": "David Alderman, Tatiana Walsh",
-        "credits": "3",
-        "description": "Animal Science"
-      }
+  {
+    "id": 0,
+    "customerName": "Abdul",
+    "phoneNumber": "7035437843",
+    "address": "726 N VERNON ST, STERLING, VA, USA",
+    "loanAmount": "300",
+    "interest": "0.07",
+    "loanTermYears": "3",
+    "loanType": "Personal Loans",
+    "description": "Abdul's loan information"
+  },
+  {
+    "id": 1,
+    "customerName": "Rahman",
+    "phoneNumber": "5717645329",
+    "address": "615 Swann Ave, Laurel, MD, USA",
+    "loanAmount": "250",
+    "interest": "0.01",
+    "loanTermYears": "5",
+    "loanType": "Auto Loans",
+    "description": "Rahman's loan information"
+  },
+  {
+    "id": 2,
+    "customerName": "Kabia",
+    "phoneNumber": "7036757843",
+    "address": "503 Worchester St, Herndon, VA, USA",
+    "loanAmount": "900",
+    "interest": "0.06",
+    "loanTermYears": "6",
+    "loanType": "Personal Loans",
+    "description": "Kabia's loan information"
+  },
+  {
+    "id": 3,
+    "customerName": "Yusif",
+    "phoneNumber": "5717937854",
+    "address": "404 Hull ave, Reston, VA, USA",
+    "loanAmount": "850",
+    "interest": "0.09",
+    "loanTermYears": "4",
+    "loanType": "Auto Loans",
+    "description": "Yusif's loan information"
+  },
+  {
+    "id": 4,
+    "customerName": "Aminata",
+    "phoneNumber": "7038837854",
+    "address": "234 White Street, Sterling, VA, USA",
+    "loanAmount": "550",
+    "interest": "0.06",
+    "loanTermYears": "3",
+    "loanType": "Personal Loans",
+    "description": "Aminata's loan information"
+  }
 ]
