@@ -32,7 +32,7 @@ const tempCourse = fs.readFileSync(
 
  /////////////////////////////////
 // Template
-const templateHTMLCourse = fs.readFileSync(
+const templateHTMLLoan = fs.readFileSync(
     `${__dirname}/template/templateCourse.html`,
     'utf-8'
   );
