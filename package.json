@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Middleware Program and Database System\r Assignment 2: Introduction to Backend Web",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Arksalone/IFT-458/issues"
   },
-  "homepage": "https://github.com/Arksalone/IFT-458#readme"
+  "homepage": "https://github.com/Arksalone/IFT-458#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
